@@ -1,0 +1,5 @@
+C:\Users\Silvie\Desktop\ukazkaknih.exe
+C:\Users\Silvie\Desktop\ukazkaknih.dll
+C:\Users\Silvie\Desktop\ukazkaknih.deps.json
+C:\Users\Silvie\Desktop\ukazkaknih.runtimeconfig.json
+C:\Users\Silvie\Desktop\ukazkaknih.pdb
